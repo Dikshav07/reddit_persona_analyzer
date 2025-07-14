@@ -74,7 +74,7 @@ python reddit_analyzer.py
 Enter Reddit user profile URL: https://www.reddit.com/user/spez/
 ```
 ### Output:
-A file like ```spez_persona_20250714_123456.txt``` will be created in your project folder containing the full analysis.
+A file like ```username_persona_YYYYMMDD_HHMMSS.txt``` will be created in your project folder containing the full analysis.
 
 
 ## Project Structure
