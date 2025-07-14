@@ -1,0 +1,65 @@
+ Reddit User Persona: u/kojied
+
+ Demographics
+- **Gender:** Not specified
+   Citation: No direct mention
+
+- **Age:** Not specified
+   Citation: No direct mention
+
+- **Place:** new york
+   Citation: "new york" found at https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+- **Job:** also a
+   Citation: "also a" found at https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+
+
+ Interests & Communities
+- **r/VisionPro**
+   Citation: "Spacial tours with 3D map and 360˚ video..." — https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
+
+- **r/projectzomboid**
+   Citation: "3 months in, the cleanest and most functional RV interior zomboid has to offer...." — https://reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/
+
+- **r/Frugal**
+   Citation: "I've been lurking in this channel for a while now, and have been greatly inspired by the ways people..." — https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/
+
+- **r/GenZ**
+   Citation: "There's so many coming of age movies for boomers and millennials, what about for gen-Z?..." — https://reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/
+
+
+
+ Communication Style
+- **Primary Style:** Casual
+   Citation: "There's this bar that I frequent a few blocks away from my house. Technically different neighborhood..." — https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+- **Emoji Usage:** Frequent (1 times)
+
+
+ Personality Traits
+- **Analytical** (Found 15 times)
+   Citation: "hi guys,  i think pokemon could be one of the killer use case for the vision pro. imagine, you could..." — https://reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/
+
+- **Social** (Found 14 times)
+   Citation: "there's this bar that i frequent a few blocks away from my house. technically different neighborhood..." — https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+- **Helpful** (Found 10 times)
+   Citation: "hey i’m an ios developer building in visionos. do people have recommendations on resources to catch ..." — https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+
+- **Strong_Opinion** (Found 19 times)
+   Citation: "there's this bar that i frequent a few blocks away from my house. technically different neighborhood..." — https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+
+
+ Activity Analysis
+- Account age: 5 years, 6 months
+- Total Posts: 31
+- Total Comments: 100
+- Active Communities: 38
+
+ Summary
+u/kojied is a highly active Reddit user based in new york. 
+They maintain a casual writing style and are most active in VisionPro, projectzomboid, Frugal. 
+Their account shows regular engagement across 38 different communities, 
+with 31 posts and 100 comments.
