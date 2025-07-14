@@ -26,3 +26,62 @@ A Python-based analyzer that creates a detailed **user persona** from a Reddit p
 ```bash
 git clone https://github.com/yourusername/reddit_persona_analyzer.git
 cd reddit_persona_analyzer
+```
+
+### 2. Create and Activate Virtual Environment
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
+### 3. Install Required Packages
+```bash
+pip install praw textblob spacy
+```
+### 4. Download spaCy Language Model
+```bash
+python -m spacy download en_core_web_sm
+```
+
+## Reddit API Setup
+### 1. Create Reddit App
+- Go to: https://www.reddit.com/prefs/apps
+- Click "Create Another App"
+- Choose ```script```
+- Fill in:
+      - Name: Reddit Persona Analyzer
+      - Redirect URI: http://localhost:8080
+      - After submission, copy the Client ID and Secret
+
+### 2. Create ```config.py```
+Create a file named ```config.py``` in your project root:
+
+```python
+REDDIT_CLIENT_ID = 'your_client_id_here'
+REDDIT_CLIENT_SECRET = 'your_client_secret_here'
+REDDIT_USER_AGENT = 'PersonaAnalyzer/1.0'
+```
+
+## Run the Analyzer
+Make sure your virtual environment is activated and run:
+
+```bash
+python reddit_analyzer.py
+```
+### Example Input:
+```ruby
+Enter Reddit user profile URL: https://www.reddit.com/user/spez/
+```
+### Output:
+A file like ```spez_persona_20250714_123456.txt``` will be created in your project folder containing the full analysis.
+
+
+## Project Structure
+```graphql
+reddit_persona_analyzer/
+│
+├── reddit_analyzer.py        
+├── config.py                 
+├── venv/                     
+├── README.md                 
+├── username_persona_*.txt    
+```
