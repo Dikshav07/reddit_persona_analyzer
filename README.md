@@ -4,7 +4,6 @@
 
 A Python-based analyzer that creates a detailed **user persona** from a Reddit profile by scraping public posts and comments using the Reddit API. It uses natural language processing to detect demographics, personality traits, writing style, and community interests.
 
----
 
 ##  Features
 
@@ -17,7 +16,6 @@ A Python-based analyzer that creates a detailed **user persona** from a Reddit p
 - Provides citation links for every extracted trait.
 - Outputs a clean `.txt` file as a complete persona report.
 
----
 
 ##  Setup Instructions
 
@@ -42,15 +40,19 @@ pip install praw textblob spacy
 python -m spacy download en_core_web_sm
 ```
 
-## Reddit API Setup
-### 1. Create Reddit App
-- Go to: https://www.reddit.com/prefs/apps
-- Click "Create Another App"
-- Choose ```script```
-- Fill in:
-      - Name: Reddit Persona Analyzer
-      - Redirect URI: http://localhost:8080
-      - After submission, copy the Client ID and Secret
+##  Reddit API Setup
+
+### 1. Create a Reddit App
+
+1. Go to [https://www.reddit.com/prefs/apps](https://www.reddit.com/prefs/apps)
+2. Click **“Create Another App”**
+3. Choose **`script`** as the app type
+4. Fill in the fields:
+   - **Name**: `Reddit Persona Analyzer`
+   - **Redirect URI**: `http://localhost:8080`
+5. Click **“Create app”**
+6. Copy your **Client ID** (under the app name) and **Client Secret**
+
 
 ### 2. Create ```config.py```
 Create a file named ```config.py``` in your project root:
