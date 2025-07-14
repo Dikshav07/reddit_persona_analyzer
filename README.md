@@ -73,7 +73,6 @@ python reddit_analyzer.py
 ```ruby
 Enter Reddit user profile URL: https://www.reddit.com/user/spez/
 ```
-### Output:
 A file like ```username_persona_YYYYMMDD_HHMMSS.txt``` will be created in your project folder containing the full analysis.
 
 
@@ -87,6 +86,8 @@ reddit_persona_analyzer/
 ├── README.md                 
 ├── username_persona_*.txt    
 ```
+
+## OUTPUT: 
 <img width="1568" height="910" alt="Image" src="https://github.com/user-attachments/assets/224150cf-5c89-4038-83a1-b0600c7fe1c8" />
 
 <img width="1462" height="774" alt="Image" src="https://github.com/user-attachments/assets/eebc6bf6-aced-42bf-8434-d961e85a23e0" />
